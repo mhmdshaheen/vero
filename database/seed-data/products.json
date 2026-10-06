@@ -1,0 +1,725 @@
+[
+  {
+    "id": "boot-cognac-captoe",
+    "name": "بوط جلد بني بمقدمة مدروزة",
+    "price": 90,
+    "description": "بوط من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "boot",
+    "imagePath": "/assets/boot-cognac-captoe.webp",
+    "colors": [
+      "بني"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "boot-suede-chukka-brown",
+    "name": "بوط شاموا برباط",
+    "price": 90,
+    "description": "بوط من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "boot",
+    "imagePath": "/assets/boot-suede-chukka-brown-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "boot-plain-ankle-black",
+    "name": "بوط جلد برباط كلاسيكي",
+    "price": 90,
+    "description": "بوط من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "boot",
+    "imagePath": "/assets/boot-plain-ankle-black-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "boot-suede-chelsea-brown",
+    "name": "بوط تشيلسي شاموا بكعب",
+    "price": 90,
+    "description": "بوط من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "boot",
+    "imagePath": "/assets/boot-suede-chelsea-brown-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "boot-suede-chelsea-black",
+    "name": "بوط تشيلسي شاموا بنعل مريح",
+    "price": 90,
+    "description": "بوط من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "boot",
+    "imagePath": "/assets/boot-suede-chelsea-black-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "boot-classic-chukka-navy",
+    "name": "بوط جلد كلاسيك قصير",
+    "price": 90,
+    "description": "بوط من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "boot",
+    "imagePath": "/assets/boot-classic-chukka-navy-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "casual-wide-lace",
+    "name": "كاجوال جلد برباط عريض",
+    "price": 70,
+    "description": "حذاء كاجوال من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "casual",
+    "imagePath": "/assets/casual-wide-lace-seated.webp",
+    "colorImages": [
+      {
+        "color": "بني",
+        "imagePath": "/assets/casual-wide-lace-seated.webp"
+      },
+      {
+        "color": "أسود",
+        "imagePath": "/assets/casual-wide-lace-black-seated.webp"
+      }
+    ],
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "casual-panel-sneaker",
+    "name": "كاجوال كحلي بتفاصيل رمادية",
+    "price": 70,
+    "description": "حذاء كاجوال من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "casual",
+    "imagePath": "/assets/casual-panel-sneaker-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "casual-perforated-sneaker",
+    "name": "كاجوال جلد مفرغ",
+    "price": 70,
+    "description": "حذاء كاجوال من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "casual",
+    "imagePath": "/assets/casual-perforated-sneaker-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان",
+      "أبيض"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "casual-woven-sneaker",
+    "name": "كاجوال بنقشة جانبية",
+    "price": 70,
+    "description": "حذاء كاجوال من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "casual",
+    "imagePath": "/assets/casual-woven-sneaker-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "casual-captoe-derby",
+    "name": "ديربي كاجوال مقدمة مدروزة",
+    "price": 70,
+    "description": "حذاء كاجوال من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "casual",
+    "imagePath": "/assets/casual-captoe-derby-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "classic-wingtip",
+    "name": "أوكسفورد كلاسيك وينغ تيب",
+    "price": 70,
+    "description": "حذاء كلاسيكي جلدي برباط وتفاصيل وينغ تيب، صناعة لبنانية",
+    "category": "formal",
+    "imagePath": "/assets/classic-wingtip-brown-v2-seated.webp",
+    "colorImages": [
+      {
+        "color": "بني",
+        "imagePath": "/assets/classic-wingtip-brown-v2-seated.webp"
+      }
+    ],
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "active": true
+  },
+  {
+    "id": "classic-apron-derby",
+    "name": "ديربي كلاسيك برباط",
+    "price": 70,
+    "description": "حذاء كلاسيكي من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "formal",
+    "imagePath": "/assets/classic-apron-derby-brown.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "active": true
+  },
+  {
+    "id": "classic-pebbled-loafer",
+    "name": "لوفر كلاسيك جلد محبب",
+    "price": 70,
+    "description": "حذاء كلاسيكي من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "formal",
+    "imagePath": "/assets/classic-pebbled-loafer-black.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "active": true
+  },
+  {
+    "id": "classic-buckle-loafer",
+    "name": "لوفر كلاسيك بإبزيم معدني",
+    "price": 70,
+    "description": "حذاء كلاسيكي من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "formal",
+    "imagePath": "/assets/classic-buckle-loafer-black.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "active": true
+  },
+  {
+    "id": "casual-derby",
+    "name": "ديربي كاجوال برباط",
+    "price": 70,
+    "description": "حذاء كاجوال برباط ونعل أسود، بخيارات جلد وشاموا",
+    "category": "casual",
+    "imagePath": "/assets/casual-derby-black-leather.webp",
+    "colorImages": [
+      {
+        "color": "أسود جلد",
+        "imagePath": "/assets/casual-derby-black-leather.webp"
+      },
+      {
+        "color": "أسود شاموا",
+        "imagePath": "/assets/casual-derby-black-suede.webp"
+      },
+      {
+        "color": "بني شاموا",
+        "imagePath": "/assets/casual-derby-brown-suede.webp"
+      },
+      {
+        "color": "كحلي شاموا",
+        "imagePath": "/assets/casual-derby-navy-suede.webp"
+      }
+    ],
+    "colors": [
+      "أسود جلد",
+      "أسود شاموا",
+      "بني شاموا",
+      "كحلي شاموا"
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "casual-lace-up",
+    "name": "كاجوال جلد برباط",
+    "price": 70,
+    "description": "حذاء كاجوال جلدي برباط ونعل أسود",
+    "category": "casual",
+    "imagePath": "/assets/casual-lace-up-black.webp",
+    "colorImages": [
+      {
+        "color": "أسود",
+        "imagePath": "/assets/casual-lace-up-black.webp"
+      },
+      {
+        "color": "بني",
+        "imagePath": "/assets/casual-lace-up-brown.webp"
+      }
+    ],
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "tuxedo",
+    "name": "توكسيدو",
+    "price": 70,
+    "description": "حذاء رسمي",
+    "category": "formal",
+    "imagePath": "/assets/tuxedo-clean-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان",
+      "بيج"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "active": true
+  },
+  {
+    "id": "penny-loafer",
+    "name": "لوفر جلدي كلاسيكي",
+    "price": 70,
+    "description": "جلد طبيعي",
+    "category": "formal",
+    "imagePath": "/assets/penny-loafer-clean-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان",
+      "بيج"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "suede-loafer",
+    "name": "لوفر بتفاصيل مخملية",
+    "price": 70,
+    "description": "أناقة يومية",
+    "category": "casual",
+    "imagePath": "/assets/suede-loafer-clean-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان",
+      "بيج"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true,
+    "sizeGuide": [],
+    "fitNote": ""
+  },
+  {
+    "id": "sneaker",
+    "name": "سنيكر جلدي",
+    "price": 70,
+    "description": "حذاء كاجوال من الجلد الطبيعي من الداخل والخارج، صناعة لبنانية",
+    "category": "casual",
+    "imagePath": "/assets/sneaker-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "sport-mesh-sneaker",
+    "name": "سنيكر سبور أسود",
+    "price": 70,
+    "description": "جلد وشبك أسود",
+    "category": "casual",
+    "imagePath": "/assets/sport-mesh-sneaker.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان",
+      "بيج"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "active": true,
+    "sizeGuide": [],
+    "fitNote": ""
+  },
+  {
+    "id": "boot",
+    "name": "بوت جلدي",
+    "price": 90,
+    "description": "للموسم البارد",
+    "category": "boot",
+    "imagePath": "/assets/boot-brown-v2-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان",
+      "بيج"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "black-elastic-boot",
+    "name": "بوط أسود برباط مطاطي",
+    "price": 90,
+    "description": "جلد أسود ونعل مريح",
+    "category": "boot",
+    "imagePath": "/assets/black-elastic-boot-v2-seated.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان",
+      "بيج"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true
+  },
+  {
+    "id": "loafer",
+    "name": "لوفر بنعل مريح",
+    "price": 70,
+    "description": "جلد طبيعي",
+    "category": "casual",
+    "imagePath": "/assets/loafer-clean.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان",
+      "بيج"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "active": true,
+    "sizeGuide": [],
+    "fitNote": ""
+  },
+  {
+    "id": "model-c2a0e204-be05-45c6-a529-263107f434bd",
+    "name": "كلاسيك برش لوك",
+    "price": 70,
+    "description": "رسمي",
+    "category": "formal",
+    "imagePath": "/assets/classic-brush-look-clean.webp",
+    "colors": [
+      "أسود",
+      "بني",
+      "كحلي",
+      "هافان",
+      "بيج"
+    ],
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "sizeGuide": [
+      {
+        "size": 42,
+        "footLengthCm": 27.5
+      }
+    ],
+    "fitNote": "قالب مريح مع رخم عالي",
+    "active": true
+  }
+]

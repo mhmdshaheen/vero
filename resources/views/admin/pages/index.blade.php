@@ -1,0 +1,4 @@
+@extends('admin.layout')
+@section('content')
+<div class="toolbar"><h1>الصفحات والنصوص</h1><a class="btn" href="{{ route('admin.pages.create') }}">+ صفحة جديدة</a></div><div class="card table-wrap"><table><thead><tr><th>الصفحة</th><th>الرابط/الموضع</th><th>الحالة</th><th>إدارة</th></tr></thead><tbody>@foreach($pages as $page)<tr><td>{{ $page->title }}</td><td>{{ in_array($page->slug, ['home','story','contact','returns-policy','manufacturing']) ? 'قسم في الرئيسية' : '/pages/'.$page->slug }}</td><td>{{ $page->is_published ? 'منشورة' : 'مخفية' }}</td><td><a class="btn secondary" href="{{ route('admin.pages.edit', $page) }}">تعديل</a></td></tr>@endforeach</tbody></table></div><p class="muted">أقسام الصفحة الرئيسية قابلة للتعديل هنا. صفحات المنتجات والكتالوج تستمد محتواها من بيانات المنتجات والصور.</p>
+@endsection

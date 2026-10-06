@@ -1,0 +1,492 @@
+[
+  {
+    "key": "product:black-elastic-boot:primary",
+    "code": "V-0001",
+    "imagePath": "/assets/black-elastic-boot-v2-seated.webp",
+    "category": "boot",
+    "alt": "بوط أسود برباط مطاطي",
+    "productId": "black-elastic-boot",
+    "isActive": true,
+    "sortOrder": 1
+  },
+  {
+    "key": "product:boot:primary",
+    "code": "V-0002",
+    "imagePath": "/assets/boot-brown-v2-seated.webp",
+    "category": "boot",
+    "alt": "بوت جلدي",
+    "productId": "boot",
+    "isActive": true,
+    "sortOrder": 2
+  },
+  {
+    "key": "product:casual-derby:أسود جلد",
+    "code": "V-0003",
+    "imagePath": "/assets/casual-derby-black-leather.webp",
+    "category": "casual",
+    "alt": "ديربي كاجوال برباط",
+    "productId": "casual-derby",
+    "isActive": true,
+    "sortOrder": 3
+  },
+  {
+    "key": "product:casual-derby:أسود شاموا",
+    "code": "V-0004",
+    "imagePath": "/assets/casual-derby-black-suede.webp",
+    "category": "casual",
+    "alt": "ديربي كاجوال برباط — أسود شاموا",
+    "productId": "casual-derby",
+    "isActive": true,
+    "sortOrder": 4
+  },
+  {
+    "key": "product:casual-derby:بني شاموا",
+    "code": "V-0005",
+    "imagePath": "/assets/casual-derby-brown-suede.webp",
+    "category": "casual",
+    "alt": "ديربي كاجوال برباط — بني شاموا",
+    "productId": "casual-derby",
+    "isActive": true,
+    "sortOrder": 5
+  },
+  {
+    "key": "product:casual-derby:كحلي شاموا",
+    "code": "V-0006",
+    "imagePath": "/assets/casual-derby-navy-suede.webp",
+    "category": "casual",
+    "alt": "ديربي كاجوال برباط — كحلي شاموا",
+    "productId": "casual-derby",
+    "isActive": true,
+    "sortOrder": 6
+  },
+  {
+    "key": "product:casual-lace-up:أسود",
+    "code": "V-0007",
+    "imagePath": "/assets/casual-lace-up-black.webp",
+    "category": "casual",
+    "alt": "كاجوال جلد برباط",
+    "productId": "casual-lace-up",
+    "isActive": true,
+    "sortOrder": 7
+  },
+  {
+    "key": "product:casual-lace-up:بني",
+    "code": "V-0008",
+    "imagePath": "/assets/casual-lace-up-brown.webp",
+    "category": "casual",
+    "alt": "كاجوال جلد برباط — بني",
+    "productId": "casual-lace-up",
+    "isActive": true,
+    "sortOrder": 8
+  },
+  {
+    "key": "product:classic-wingtip:أسود",
+    "code": "V-0009",
+    "imagePath": "/assets/classic-wingtip-brown-v2-seated.webp",
+    "category": "formal",
+    "alt": "أوكسفورد كلاسيك وينغ تيب — أسود",
+    "productId": "classic-wingtip",
+    "isActive": false,
+    "sortOrder": 9
+  },
+  {
+    "key": "product:classic-wingtip:بني",
+    "code": "V-0010",
+    "imagePath": "/assets/classic-wingtip-brown-v2-seated.webp",
+    "category": "formal",
+    "alt": "أوكسفورد كلاسيك وينغ تيب",
+    "productId": "classic-wingtip",
+    "isActive": true,
+    "sortOrder": 10
+  },
+  {
+    "key": "product:classic-wingtip:عسلي",
+    "code": "V-0011",
+    "imagePath": "/assets/classic-wingtip-brown-v2-seated.webp",
+    "category": "formal",
+    "alt": "أوكسفورد كلاسيك وينغ تيب — عسلي",
+    "productId": "classic-wingtip",
+    "isActive": false,
+    "sortOrder": 11
+  },
+  {
+    "key": "product:loafer:primary",
+    "code": "V-0012",
+    "imagePath": "/assets/loafer-clean.webp",
+    "category": "casual",
+    "alt": "لوفر بنعل مريح",
+    "productId": "loafer",
+    "isActive": true,
+    "sortOrder": 12
+  },
+  {
+    "key": "product:model-c2a0e204-be05-45c6-a529-263107f434bd:primary",
+    "code": "V-0013",
+    "imagePath": "/assets/classic-brush-look-clean.webp",
+    "category": "formal",
+    "alt": "كلاسيك برش لوك",
+    "productId": "model-c2a0e204-be05-45c6-a529-263107f434bd",
+    "isActive": true,
+    "sortOrder": 13
+  },
+  {
+    "key": "product:penny-loafer:primary",
+    "code": "V-0014",
+    "imagePath": "/assets/penny-loafer-clean-seated.webp",
+    "category": "formal",
+    "alt": "لوفر جلدي كلاسيكي",
+    "productId": "penny-loafer",
+    "isActive": true,
+    "sortOrder": 14
+  },
+  {
+    "key": "product:sneaker:primary",
+    "code": "V-0015",
+    "imagePath": "/assets/sneaker-seated.webp",
+    "category": "casual",
+    "alt": "سنيكر جلدي",
+    "productId": "sneaker",
+    "isActive": false,
+    "sortOrder": 15
+  },
+  {
+    "key": "product:sport-mesh-sneaker:primary",
+    "code": "V-0016",
+    "imagePath": "/assets/sport-mesh-sneaker.webp",
+    "category": "casual",
+    "alt": "سنيكر سبور أسود",
+    "productId": "sport-mesh-sneaker",
+    "isActive": true,
+    "sortOrder": 16
+  },
+  {
+    "key": "product:suede-loafer:primary",
+    "code": "V-0017",
+    "imagePath": "/assets/suede-loafer-clean-seated.webp",
+    "category": "casual",
+    "alt": "لوفر بتفاصيل مخملية",
+    "productId": "suede-loafer",
+    "isActive": true,
+    "sortOrder": 17
+  },
+  {
+    "key": "product:tuxedo:primary",
+    "code": "V-0018",
+    "imagePath": "/assets/tuxedo-clean-seated.webp",
+    "category": "formal",
+    "alt": "توكسيدو",
+    "productId": "tuxedo",
+    "isActive": true,
+    "sortOrder": 18
+  },
+  {
+    "key": "catalog:apron-derby-brown",
+    "code": "V-0019",
+    "imagePath": "/assets/catalog/apron-derby-brown.webp",
+    "category": "formal",
+    "alt": "ديربي بني بخياطة أمامية",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 19
+  },
+  {
+    "key": "catalog:apron-slipon-brown-original",
+    "code": "V-0020",
+    "imagePath": "/assets/catalog/apron-slipon-brown-original.webp",
+    "category": "formal",
+    "alt": "لوفر بني بخياطة أمامية",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 20
+  },
+  {
+    "key": "catalog:captoe-derby-brown-original",
+    "code": "V-0021",
+    "imagePath": "/assets/catalog/captoe-derby-brown-original.webp",
+    "category": "formal",
+    "alt": "ديربي بني مقدمة مدروزة",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 21
+  },
+  {
+    "key": "catalog:laceup-high-top-black",
+    "code": "V-0022",
+    "imagePath": "/assets/catalog/laceup-high-top-black.webp",
+    "category": "boot",
+    "alt": "بوط أسود برباط",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 22
+  },
+  {
+    "key": "catalog:panel-sneaker-navy-gray",
+    "code": "V-0023",
+    "imagePath": "/assets/casual-panel-sneaker-seated.webp",
+    "category": "casual",
+    "alt": "كاجوال كحلي بتفاصيل رمادية",
+    "productId": "casual-panel-sneaker",
+    "isActive": true,
+    "sortOrder": 23
+  },
+  {
+    "key": "catalog:patent-derby-black",
+    "code": "V-0024",
+    "imagePath": "/assets/catalog/patent-derby-black.webp",
+    "category": "formal",
+    "alt": "ديربي أسود لامع",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 24
+  },
+  {
+    "key": "catalog:patent-horsebit-black",
+    "code": "V-0025",
+    "imagePath": "/assets/catalog/patent-horsebit-black.webp",
+    "category": "formal",
+    "alt": "لوفر أسود لامع بإبزيم",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 25
+  },
+  {
+    "key": "catalog:patent-penny-black",
+    "code": "V-0026",
+    "imagePath": "/assets/catalog/patent-penny-black.webp",
+    "category": "formal",
+    "alt": "لوفر أسود لامع بشريط",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 26
+  },
+  {
+    "key": "catalog:pebbled-apron-sneaker-black",
+    "code": "V-0027",
+    "imagePath": "/assets/sneaker-seated.webp",
+    "category": "casual",
+    "alt": "سنيكر جلدي",
+    "productId": "sneaker",
+    "isActive": true,
+    "sortOrder": 27
+  },
+  {
+    "key": "catalog:penny-brogue-pair-original",
+    "code": "V-0028",
+    "imagePath": "/assets/catalog/penny-brogue-pair-original.webp",
+    "category": "formal",
+    "alt": "لوفر أسود وبروغ بني",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 28
+  },
+  {
+    "key": "catalog:perforated-sneaker-white",
+    "code": "V-0029",
+    "imagePath": "/assets/casual-perforated-sneaker-seated.webp",
+    "category": "casual",
+    "alt": "كاجوال جلد مفرغ",
+    "productId": "casual-perforated-sneaker",
+    "isActive": true,
+    "sortOrder": 29
+  },
+  {
+    "key": "catalog:perforated-wingtip-black",
+    "code": "V-0030",
+    "imagePath": "/assets/catalog/perforated-wingtip-black.webp",
+    "category": "formal",
+    "alt": "كلاسيك أسود بتفريغ جانبي",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 30
+  },
+  {
+    "key": "catalog:perforated-wingtip-brown",
+    "code": "V-0031",
+    "imagePath": "/assets/catalog/perforated-wingtip-brown.webp",
+    "category": "formal",
+    "alt": "كلاسيك بني بتفريغ جانبي",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 31
+  },
+  {
+    "key": "catalog:plain-derby-black",
+    "code": "V-0032",
+    "imagePath": "/assets/catalog/plain-derby-black.webp",
+    "category": "formal",
+    "alt": "ديربي كلاسيك أسود",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 32
+  },
+  {
+    "key": "catalog:suede-chelsea-black",
+    "code": "V-0033",
+    "imagePath": "/assets/boot-suede-chelsea-black-seated.webp",
+    "category": "boot",
+    "alt": "بوط تشيلسي شاموا بنعل مريح",
+    "productId": "boot-suede-chelsea-black",
+    "isActive": true,
+    "sortOrder": 33
+  },
+  {
+    "key": "catalog:woven-sneaker-black",
+    "code": "V-0034",
+    "imagePath": "/assets/casual-woven-sneaker-seated.webp",
+    "category": "casual",
+    "alt": "كاجوال بنقشة جانبية",
+    "productId": "casual-woven-sneaker",
+    "isActive": true,
+    "sortOrder": 34
+  },
+  {
+    "key": "catalog:chunky-chelsea-leather-black",
+    "code": "V-0035",
+    "imagePath": "/assets/catalog/chunky-chelsea-leather-black.webp",
+    "category": "boot",
+    "alt": "بوط تشيلسي أسود بنعل عريض",
+    "productId": null,
+    "isActive": false,
+    "sortOrder": 35
+  },
+  {
+    "key": "catalog:classic-chelsea-leather-black",
+    "code": "V-0036",
+    "imagePath": "/assets/catalog/classic-chelsea-leather-black.webp",
+    "category": "boot",
+    "alt": "بوط تشيلسي أسود بكعب كلاسيك",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 36
+  },
+  {
+    "key": "catalog:laceup-high-top-brown",
+    "code": "V-0037",
+    "imagePath": "/assets/catalog/laceup-high-top-brown.webp",
+    "category": "boot",
+    "alt": "بوط بني برباط ومقدمة مدروزة",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 37
+  },
+  {
+    "key": "catalog:pebbled-apron-derby-brown",
+    "code": "V-0038",
+    "imagePath": "/assets/catalog/pebbled-apron-derby-brown.webp",
+    "category": "boot",
+    "alt": "حذاء بني بجلد محبب ونعل عريض",
+    "productId": null,
+    "isActive": true,
+    "sortOrder": 38
+  },
+  {
+    "key": "catalog:plain-ankle-laceup-black",
+    "code": "V-0039",
+    "imagePath": "/assets/boot-plain-ankle-black-seated.webp",
+    "category": "boot",
+    "alt": "بوط جلد برباط كلاسيكي",
+    "productId": "boot-plain-ankle-black",
+    "isActive": true,
+    "sortOrder": 39
+  },
+  {
+    "key": "catalog:suede-chukka-brown",
+    "code": "V-0040",
+    "imagePath": "/assets/boot-suede-chukka-brown-seated.webp",
+    "category": "boot",
+    "alt": "بوط شاموا برباط",
+    "productId": "boot-suede-chukka-brown",
+    "isActive": true,
+    "sortOrder": 40
+  },
+  {
+    "key": "product:casual-captoe-derby:primary",
+    "code": "V-0041",
+    "imagePath": "/assets/casual-captoe-derby-seated.webp",
+    "category": "casual",
+    "alt": "ديربي كاجوال مقدمة مدروزة",
+    "productId": "casual-captoe-derby",
+    "isActive": true,
+    "sortOrder": 41
+  },
+  {
+    "key": "product:casual-wide-lace:primary",
+    "code": "V-0042",
+    "imagePath": "/assets/casual-wide-lace-seated.webp",
+    "category": "casual",
+    "alt": "كاجوال جلد برباط عريض",
+    "productId": "casual-wide-lace",
+    "isActive": true,
+    "sortOrder": 42
+  },
+  {
+    "key": "product:classic-apron-derby:primary",
+    "code": "V-0043",
+    "imagePath": "/assets/classic-apron-derby-brown.webp",
+    "category": "formal",
+    "alt": "ديربي كلاسيك برباط",
+    "productId": "classic-apron-derby",
+    "isActive": true,
+    "sortOrder": 43
+  },
+  {
+    "key": "product:classic-buckle-loafer:primary",
+    "code": "V-0044",
+    "imagePath": "/assets/classic-buckle-loafer-black.webp",
+    "category": "formal",
+    "alt": "لوفر كلاسيك بإبزيم معدني",
+    "productId": "classic-buckle-loafer",
+    "isActive": true,
+    "sortOrder": 44
+  },
+  {
+    "key": "product:classic-pebbled-loafer:primary",
+    "code": "V-0045",
+    "imagePath": "/assets/classic-pebbled-loafer-black.webp",
+    "category": "formal",
+    "alt": "لوفر كلاسيك جلد محبب",
+    "productId": "classic-pebbled-loafer",
+    "isActive": true,
+    "sortOrder": 45
+  },
+  {
+    "key": "product:boot-classic-chukka-navy:primary",
+    "code": "V-0046",
+    "imagePath": "/assets/boot-classic-chukka-navy-seated.webp",
+    "category": "boot",
+    "alt": "بوط جلد كلاسيك قصير",
+    "productId": "boot-classic-chukka-navy",
+    "isActive": true,
+    "sortOrder": 46
+  },
+  {
+    "key": "product:boot-suede-chelsea-brown:primary",
+    "code": "V-0047",
+    "imagePath": "/assets/boot-suede-chelsea-brown-seated.webp",
+    "category": "boot",
+    "alt": "بوط تشيلسي شاموا بكعب",
+    "productId": "boot-suede-chelsea-brown",
+    "isActive": true,
+    "sortOrder": 47
+  },
+  {
+    "key": "product:casual-wide-lace:أسود",
+    "code": "V-0048",
+    "imagePath": "/assets/casual-wide-lace-black-seated.webp",
+    "category": "casual",
+    "alt": "كاجوال جلد برباط عريض — أسود",
+    "productId": "casual-wide-lace",
+    "isActive": true,
+    "sortOrder": 48
+  },
+  {
+    "key": "product:boot-cognac-captoe:primary",
+    "code": "V-0049",
+    "imagePath": "/assets/boot-cognac-captoe.webp",
+    "category": "boot",
+    "alt": "بوط جلد بني بمقدمة مدروزة",
+    "productId": "boot-cognac-captoe",
+    "isActive": true,
+    "sortOrder": 49
+  }
+]

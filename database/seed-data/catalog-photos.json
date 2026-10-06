@@ -1,0 +1,134 @@
+[
+  {
+    "key": "catalog:apron-derby-brown",
+    "imagePath": "/assets/catalog/apron-derby-brown.webp",
+    "category": "formal",
+    "alt": "ديربي بني بخياطة أمامية"
+  },
+  {
+    "key": "catalog:patent-horsebit-black",
+    "imagePath": "/assets/catalog/patent-horsebit-black.webp",
+    "category": "formal",
+    "alt": "لوفر أسود لامع بإبزيم"
+  },
+  {
+    "key": "catalog:patent-derby-black",
+    "imagePath": "/assets/catalog/patent-derby-black.webp",
+    "category": "formal",
+    "alt": "ديربي أسود لامع"
+  },
+  {
+    "key": "catalog:pebbled-apron-sneaker-black",
+    "imagePath": "/assets/catalog/pebbled-apron-sneaker-black.webp",
+    "category": "casual",
+    "alt": "كاجوال أسود بجلد محبب"
+  },
+  {
+    "key": "catalog:perforated-sneaker-white",
+    "imagePath": "/assets/catalog/perforated-sneaker-white.webp",
+    "category": "casual",
+    "alt": "كاجوال أبيض مفرغ"
+  },
+  {
+    "key": "catalog:panel-sneaker-navy-gray",
+    "imagePath": "/assets/catalog/panel-sneaker-navy-gray.webp",
+    "category": "casual",
+    "alt": "كاجوال كحلي ورمادي"
+  },
+  {
+    "key": "catalog:woven-sneaker-black",
+    "imagePath": "/assets/catalog/woven-sneaker-black.webp",
+    "category": "casual",
+    "alt": "كاجوال أسود بنسيج جانبي"
+  },
+  {
+    "key": "catalog:captoe-derby-brown-original",
+    "imagePath": "/assets/catalog/captoe-derby-brown-original.webp",
+    "category": "formal",
+    "alt": "ديربي بني مقدمة مدروزة"
+  },
+  {
+    "key": "catalog:apron-slipon-brown-original",
+    "imagePath": "/assets/catalog/apron-slipon-brown-original.webp",
+    "category": "formal",
+    "alt": "لوفر بني بخياطة أمامية"
+  },
+  {
+    "key": "catalog:penny-brogue-pair-original",
+    "imagePath": "/assets/catalog/penny-brogue-pair-original.webp",
+    "category": "formal",
+    "alt": "لوفر أسود وبروغ بني"
+  },
+  {
+    "key": "catalog:patent-penny-black",
+    "imagePath": "/assets/catalog/patent-penny-black.webp",
+    "category": "formal",
+    "alt": "لوفر أسود لامع بشريط"
+  },
+  {
+    "key": "catalog:laceup-high-top-black",
+    "imagePath": "/assets/catalog/laceup-high-top-black.webp",
+    "category": "boot",
+    "alt": "بوط أسود برباط"
+  },
+  {
+    "key": "catalog:perforated-wingtip-black",
+    "imagePath": "/assets/catalog/perforated-wingtip-black.webp",
+    "category": "formal",
+    "alt": "كلاسيك أسود بتفريغ جانبي"
+  },
+  {
+    "key": "catalog:perforated-wingtip-brown",
+    "imagePath": "/assets/catalog/perforated-wingtip-brown.webp",
+    "category": "formal",
+    "alt": "كلاسيك بني بتفريغ جانبي"
+  },
+  {
+    "key": "catalog:plain-derby-black",
+    "imagePath": "/assets/catalog/plain-derby-black.webp",
+    "category": "formal",
+    "alt": "ديربي كلاسيك أسود"
+  },
+  {
+    "key": "catalog:suede-chelsea-black",
+    "imagePath": "/assets/catalog/suede-chelsea-black.webp",
+    "category": "boot",
+    "alt": "بوط شاموا أسود"
+  },
+  {
+    "key": "catalog:laceup-high-top-brown",
+    "imagePath": "/assets/catalog/laceup-high-top-brown.webp",
+    "category": "boot",
+    "alt": "بوط بني برباط ومقدمة مدروزة"
+  },
+  {
+    "key": "catalog:classic-chelsea-leather-black",
+    "imagePath": "/assets/catalog/classic-chelsea-leather-black.webp",
+    "category": "boot",
+    "alt": "بوط تشيلسي أسود بكعب كلاسيك"
+  },
+  {
+    "key": "catalog:chunky-chelsea-leather-black",
+    "imagePath": "/assets/catalog/chunky-chelsea-leather-black.webp",
+    "category": "boot",
+    "alt": "بوط تشيلسي أسود بنعل عريض"
+  },
+  {
+    "key": "catalog:suede-chukka-brown",
+    "imagePath": "/assets/catalog/suede-chukka-brown.webp",
+    "category": "boot",
+    "alt": "بوط شاموا بني برباط"
+  },
+  {
+    "key": "catalog:pebbled-apron-derby-brown",
+    "imagePath": "/assets/catalog/pebbled-apron-derby-brown.webp",
+    "category": "boot",
+    "alt": "حذاء بني بجلد محبب ونعل عريض"
+  },
+  {
+    "key": "catalog:plain-ankle-laceup-black",
+    "imagePath": "/assets/catalog/plain-ankle-laceup-black.webp",
+    "category": "boot",
+    "alt": "بوط أسود برباط ومقدمة سادة"
+  }
+]
